@@ -30,3 +30,7 @@ function App() {
 }
 
 export default App;
+
+
+
+//after put backend in the package.json time to instal "npm run backend" and before I need to install 'npm install -g json-server' for him run
