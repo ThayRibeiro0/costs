@@ -119,6 +119,18 @@
       "cost": 0,
       "services": [],
       "id": 10
+    },
+    {
+      "0": {},
+      "name": "Quero testar",
+      "budget": "123456",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 11
     }
   ],
   "categories": [
