@@ -35,6 +35,90 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "0": {},
+      "name": "teste1",
+      "budget": "1",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "0": {},
+      "name": "teste1111",
+      "budget": "2182",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "0": {},
+      "name": "teste123",
+      "budget": "13",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "0": {},
+      "name": "iu893",
+      "budget": "829173",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "0": {},
+      "name": "testando again",
+      "budget": "1234",
+      "category": {
+        "id": "4",
+        "name": "Plan"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "0": {},
+      "name": "testando 1234",
+      "budget": "73283",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "0": {},
+      "name": "testando 3456",
+      "budget": "72373",
+      "category": {
+        "id": "4",
+        "name": "Plan"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 10
     }
   ],
   "categories": [
