@@ -14,11 +14,11 @@
     },
     {
       "0": {},
-      "name": "testando1",
-      "budget": "2833",
+      "name": "update project",
+      "budget": "903",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Development"
       },
       "cost": 0,
       "services": [],
