@@ -131,6 +131,18 @@
       "cost": 0,
       "services": [],
       "id": 11
+    },
+    {
+      "0": {},
+      "name": "Agoravaii",
+      "budget": "671273",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 12
     }
   ],
   "categories": [
