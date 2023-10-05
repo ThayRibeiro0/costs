@@ -22,7 +22,7 @@
 
 //     useEffect(() => {
 //         setTimeout(() => {
-//             fetch('http://localhost:8080/projects', {
+//             fetch('http://localhost:8080/project', {
 //                 method: 'GET',
 //                 headers: {
 //                     'Content-Type': 'application/json',
@@ -39,7 +39,7 @@
 
 //     function removeProject(id){
 
-//         fetch(`http://localhost:8080/projects/${id}`, {
+//         fetch(`http://localhost:8080/project/${id}`, {
 //             method: 'DELETE',
 //             headers: {
 //                 'Content-Type': 'application/json'
