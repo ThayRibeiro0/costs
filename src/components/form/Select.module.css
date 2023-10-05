@@ -1,4 +1,4 @@
-/* .form_control{
+.form_control{
     display: flex;
     flex-direction: column;
     margin-bottom: 1em;
@@ -13,4 +13,4 @@
     padding: .7em;
     border-radius: 0;
     border: none;
-} */
+}
