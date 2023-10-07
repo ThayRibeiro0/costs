@@ -17,11 +17,11 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
         'Content-Type': 'application/json',
       },
     })
-      .then((resp) => resp.json())
-      .then((data) => {
-        setCategories(data)
-      })
-      .catch((err) => console.log(err))
+    .then((resp) => resp.json())
+    .then((data) => {
+      setCategories(data)
+    })
+    .catch((err) => console.log(err))
   }, [])
 
   const submit = (e) => {

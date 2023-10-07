@@ -1,54 +1,5 @@
 {
-  "projects": [
-    {
-      "0": {},
-      "name": "8548943",
-      "budget": "732732",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "0": {},
-      "name": "update projects",
-      "budget": "9065",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "0": {},
-      "name": "test",
-      "budget": "3328",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "0": {},
-      "name": "Test11",
-      "budget": "833478",
-      "category": {
-        "id": "4",
-        "name": "Plan"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,

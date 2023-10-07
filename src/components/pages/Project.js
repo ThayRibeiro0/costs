@@ -5,6 +5,7 @@ import Loading from '../layout/Loading'
 import Container from '../layout/Container'
 import Message from '../layout/Message'
 import ProjectForm from '../project/ProjectForm'
+import ServiceForm from '../service/ServiceForm'
 
 function Project() {
   const { id } = useParams()
@@ -59,6 +60,8 @@ function Project() {
       .catch((err) => console.log(err))
   }
 
+  function createService(){}
+
   function toggleProjectForm() {
     setShowProjectForm(!showProjecForm)
   }
@@ -103,10 +106,16 @@ function Project() {
             <div className={styles.service_form_container}>
               <h2>Add a service</h2>
               <button className={styles.btn} onClick={toggleServiceForm}>
-                {!showServiceForm ? "Add service" : "Close"}
+                {!showServiceForm ? 'Add service' : 'Close'}
               </button>
               <div className={styles.project_info}>
-                {showServiceForm && <div>Service's Form</div>}
+                {showServiceForm && (
+                    <ServiceForm 
+                    handleSubmit={createService}
+                    btnText="Add Service"
+                    projectData={project}
+                    />
+                )}
               </div>
             </div>
             <h2>Services</h2>
