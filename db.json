@@ -1,5 +1,24 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "Teste funcionou?",
+      "budget": "82726",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 873,
+      "services": [
+        {
+          "name": "testando se vai",
+          "cost": "873",
+          "description": "teste",
+          "id": "e7d65161-89a4-49c1-a1ea-b160177ebb17"
+        }
+      ],
+      "id": 1
+    }
+  ],
   "categories": [
     {
       "id": 1,
