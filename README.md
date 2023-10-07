@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 ### `npm install json-server react-icons react-router-dom uuid`
 ### `npm install react-icons`
 ### `npm install react-icons/fa`
