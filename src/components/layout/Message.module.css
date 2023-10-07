@@ -1,4 +1,4 @@
-/* .message{
+.message {
     width: 100%;
     padding: 1em;
     border: 1px solid #000;
@@ -8,14 +8,14 @@
     border-radius: 5px;
 }
 
-.sucess{
+.sucess {
     color: #155724;
     background-color: #D4EDDA;
     border-color: #C3E6CB;
 }
 
-.error{
+.error {
     color: #721c24;
     background-color: #f8d7da;
     border-color: #f5c6cb;
-} */
+}
