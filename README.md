@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+### `npm install json-server react-icons react-router-dom uuid`
+### `npm install react-icons`
+### `npm install react-icons/fa`
 
 Runs the app in the development mode.\
 Open [http://:3007](http://localhost:3007) to view it in your browser.
