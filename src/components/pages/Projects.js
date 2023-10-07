@@ -20,7 +20,7 @@ function Projects() {
 
   useEffect(() => {
     setTimeout(() => {
-      fetch('http://localhost:3000/projects', {
+      fetch('http://localhost:3007/projects', {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
@@ -37,7 +37,7 @@ function Projects() {
   }, [])
 
   function removeProject(id) {
-    fetch(`http://localhost:3000/projects/${id}`, {
+    fetch(`http://localhost:3007/projects/${id}`, {
       method: 'DELETE',
       headers: {
         'Content-Type': 'application/json',
@@ -74,7 +74,6 @@ function Projects() {
         {/* {!removeLoading && <Loading />}
         {removeLoading && projects.length === 0 && (
           <p>There are no projects registered!</p> */}
-        )}
       </Container>
     </div>
   )

@@ -20,7 +20,7 @@ function Project() {
 
   useEffect(() => {
     setTimeout(() => {
-      fetch(`http://localhost:3000/projects/${id}`, {
+      fetch(`http://localhost:3007/projects/${id}`, {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
@@ -44,7 +44,7 @@ function Project() {
       return false
     }
 
-    fetch(`http://localhost:3000/projects/${project.id}`, {
+    fetch(`http://localhost:3007/projects/${project.id}`, {
       method: 'PATCH',
       headers: {
         'Content-Type': 'application/json',
@@ -86,7 +86,7 @@ function Project() {
     project.cost = newCost
 
     //update project
-    fetch(`http://localhost:3000/projects/${project.id}`, {
+    fetch(`http://localhost:3007/projects/${project.id}`, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json',
