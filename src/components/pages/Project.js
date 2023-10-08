@@ -8,11 +8,13 @@ import Container from '../layout/Container'
 import Message from '../layout/Message'
 import ProjectForm from '../project/ProjectForm'
 import ServiceForm from '../service/ServiceForm'
+import ServiceCard from '../service/ServiceCard'
 
 function Project() {
   const { id } = useParams()
 
   const [project, setProject] = useState([])
+  const [services, setServices] = useState([])
   const [showProjecForm, setShowProjectForm] = useState(false)
   const [showServiceForm, setShowServiceForm] = useState(false)
   const [message, setMessage] = useState()
@@ -29,6 +31,7 @@ function Project() {
         .then((resp) => resp.json())
         .then((data) => {
           setProject(data)
+          setServices(data.services)
         })
         .catch((err) => console.log)
     }, 300)
@@ -95,11 +98,15 @@ function Project() {
       })
         .then((resp) => resp.json())
         .then((data) => {
-          //show up service 
+          setShowServiceForm(false)
 
         })
         .catch((err) => console.log)
     }
+
+  function removeService(){
+
+  }
 
   function toggleProjectForm() {
     setShowProjectForm(!showProjecForm)
@@ -159,7 +166,19 @@ function Project() {
             </div>
             <h2>Services</h2>
             <Container customClass="start">
-              <p>Services' items</p>
+              {services.length > 0 &&
+                services.map((service) => (
+                  <ServiceCard
+                    id={service.id}
+                    name={service.name}
+                    cost={service.cost}
+                    description={service.description}
+                    key={service.key}
+                    handleRemove={removeService}
+                  />
+                ))
+              }
+              {services.length === 0 && <p>Do not have services registered!</p>}
             </Container>
           </Container>
         </div>
