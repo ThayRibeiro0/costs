@@ -38,4 +38,4 @@ RUN THE `NPM RUN BACKEND` BEFORE AND OPEN THE LINKS THAT SHOW IN IT
 AFTER THAT RUN THE `NPM RUN START` AND OPEN THE LINK THAT HE CREATED!
 
 ## Referência
-- [Youtube] - Curso de React | Matheus Battisti - Hora de Codar - ([https://dev.to/envoy_/150-badges-for-github-pnk](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO))
+- [Youtube] - Curso de React | Matheus Battisti - Hora de Codar - 17 until 37 class ([https://dev.to/envoy_/150-badges-for-github-pnk](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO))
