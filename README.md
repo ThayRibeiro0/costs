@@ -1,77 +1,41 @@
-# Getting Started with Create React App
+# Project from Matheus Battisti - Hora de Codar - "Time to Code" - Youtube (React Course)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+Learning how works the React library, complement the studies with Codecademy.
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/ThayRibeiro0/project0.2/total?color=%2300ff00&logo=Github&style=plastic" />
+  <img src="https://img.shields.io/github/repo-size/ThayRibeiro0/project0.2?style=plastic" />
+  <img src="https://img.shields.io/github/languages/top/ThayRibeiro0/project0.2?style=plastic" />
+  <img src="https://img.shields.io/github/last-commit/ThayRibeiro0/project0.2?style=plastic" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Javascript/total?logo=Javascript" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white&style=flat"  />
+    <img src="https://img.shields.io/badge/CSS-3776AB?&logo=css3&logoColor=white&style=flat" />
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
+</p>
+    
+## What each of the files you wrote for the project contains and does?
+
+The project use the node_modules, javascript.jsx and javascript.js, react, html and css to file the project. 
+
+## Installation
 
 ### `npm install`
 ### `npm install json-server react-icons react-router-dom uuid`
 ### `npm install react-icons`
 ### `npm install react-icons/fa`
-## `npm run start`
+### `npm install react-router-dom@latest`
+### `npm run start`
 and in other terminal run:
-## `npm run backend`
+### `npm run backend`
 
+### IMPORTANT ###
+RUN THE `NPM RUN BACKEND` BEFORE AND OPEN THE LINKS THAT SHOW IN IT
+AFTER THAT RUN THE `NPM RUN START` AND OPEN THE LINK THAT HE CREATED!
 
-Runs the app in the development mode.\
-Open [http://:3081](http://localhost:3081) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Referência
+- [Youtube] - Curso de React | Matheus Battisti - Hora de Codar - 17 until 37 class ([https://dev.to/envoy_/150-badges-for-github-pnk](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO))
