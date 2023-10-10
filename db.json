@@ -7,46 +7,9 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 1255,
-      "services": [
-        {
-          "name": "testando se vai",
-          "cost": "873",
-          "description": "teste",
-          "id": "e7d65161-89a4-49c1-a1ea-b160177ebb17"
-        },
-        {
-          "name": "testando 1234",
-          "cost": "382",
-          "description": "teste",
-          "id": "4909ea59-931c-411d-bf99-dcfa0f7dac7e"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
-    },
-    {
-      "name": "new test",
-      "budget": "828728",
-      "category": {
-        "id": "4",
-        "name": "Plan"
-      },
-      "cost": 16179,
-      "services": [
-        {
-          "name": "wekhs",
-          "cost": "8743",
-          "description": "jskdjknmf",
-          "id": "4904718d-491a-4c13-bf6b-cbb35325f8a0"
-        },
-        {
-          "name": "ikjehsfikf",
-          "cost": "7436",
-          "description": "teste",
-          "id": "48dea31a-d576-49a4-9e14-7a1fb5193a12"
-        }
-      ],
-      "id": 2
     }
   ],
   "categories": [
