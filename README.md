@@ -15,7 +15,7 @@ In the project directory, you can run:
 and in other terminal run:
 ### `npm run backend`
 
-### IMPORTANTE ###
+### IMPORTANT ###
 RUN THE `NPM RUN BACKEND` BEFORE AND OPEN THE LINKS THAT SHOW IN IT
 AFTER THAT RUN THE `NPM RUN START` AND OPEN THE LINK THAT HE CREATED!
 
