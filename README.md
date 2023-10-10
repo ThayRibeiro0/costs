@@ -10,10 +10,14 @@ In the project directory, you can run:
 ### `npm install json-server react-icons react-router-dom uuid`
 ### `npm install react-icons`
 ### `npm install react-icons/fa`
-## `npm run start`
+### `npm install react-router-dom@latest`
+### `npm run start`
 and in other terminal run:
-## `npm run backend`
+### `npm run backend`
 
+### IMPORTANTE ###
+RUN THE `NPM RUN BACKEND` BEFORE AND OPEN THE LINKS THAT SHOW IN IT
+AFTER THAT RUN THE `NPM RUN START` AND OPEN THE LINK THAT HE CREATED!
 
 Runs the app in the development mode.\
 Open [http://:3081](http://localhost:3081) to view it in your browser.
