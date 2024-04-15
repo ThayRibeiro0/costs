@@ -17,7 +17,7 @@ Learning how works the React library, complement the studies with Codecademy.
     <img src="https://img.shields.io/badge/CSS-3776AB?&logo=css3&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
 </p>
-    
+       
 ## What each of the files you wrote for the project contains and does?
 
 The project use the node_modules, javascript.jsx and javascript.js, react, html and css to file the project. 
